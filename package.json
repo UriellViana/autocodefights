@@ -1,0 +1,15 @@
+{
+  "name": "autocodefights",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Uriell",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^3.2.0"
+  }
+}
