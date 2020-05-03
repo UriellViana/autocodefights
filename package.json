@@ -10,6 +10,6 @@
     "cypress:run": "cypress run"
   },
   "dependencies": {
-    "cypress": "^3.2.0"
+    "cypress": "4.5.0"
   }
 }
